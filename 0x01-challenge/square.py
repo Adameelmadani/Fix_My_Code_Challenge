@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/python3
 """
 This is our module
 """
