@@ -3,7 +3,6 @@
 This is our module
 """
 
-
 class square():
     """
     This is our class
